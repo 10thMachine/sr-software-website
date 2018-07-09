@@ -1,0 +1,19 @@
+{
+  "name": "sr-software-website",
+  "version": "1.0.0",
+  "description": "The website for SR Software ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10thMachine/sr-software-website.git"
+  },
+  "author": "Jesstin Swadley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10thMachine/sr-software-website/issues"
+  },
+  "homepage": "https://github.com/10thMachine/sr-software-website#readme"
+}
